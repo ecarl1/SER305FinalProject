@@ -15,9 +15,13 @@ public class ImageBluerrer extends JFrame {
 
     }
 
-    private void updateBlue(){
+    private void updateBufferrer(){
 
     }
+
+    
+
+
 
     public static void main(String[] args) {
         SwingUtilities.invokeLater(() -> {
